@@ -1,0 +1,27 @@
+{
+  "name": "editor-master",
+  "version": "0.0.0",
+  "main": "index.php",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "jqueryui": "~1.11.4",
+    "bootstrap": "~3.3.5",
+    "jquery-highlighttextarea": "~3.1.0",
+    "grunt": "~0.4.5"
+  }
+}
